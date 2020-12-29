@@ -1,26 +1,38 @@
 .row-header{
     margin: 0px auto;
     padding: 0px auto;
+    background: #f64c72;
+    color: #fbeec1;
 }
 .row-content{
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height: 400px;
+    color: #2f2fa2;
+    background: #659dbd;
 }
-.footer{
+footer{
     background-color: #e27d60;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
+    color: #05386b;
 }
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
     background: #e8a87c;
-    color: #242582;
 }
 address{
     font-size: 80%;
     margin: 0px;
     color: #553d67;
+    background: #daad86;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background: #5cdb95 ;
 }
